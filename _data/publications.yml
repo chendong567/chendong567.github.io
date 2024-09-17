@@ -13,7 +13,7 @@ main:
     conference: Current Biology, 2023.
     pdf: https://www.cell.com/current-biology/fulltext/S0960-9822(23)00481-5
     image: ./assets/img/2023_CurrentBiology_MultiscaleGoalDistance_Liu.jpg
-    notes: 导航需要实时加工当前位置与目标位置之间的距离，以便选择最优路线。本研究发现海马长轴上的目标调制模式呈现出不同的特征:前部海马表现为粗粒度编码;后部海马表现为细粒度编码。进一步分析发现梯度编码和神经时间常数有关。这些结果支持了将外部信息转化为神经时空动态是脑信息处理的一般性法则。
+    notes: 本研究发现随着导航迫近目标，海马theta逐渐减低。且这个效应在海马长轴上存在梯度差异。进一步分析发现梯度编码和神经时间常数有关。这些结果支持了将外部信息转化为神经时空动态是脑信息处理的一般性法则。
   - title: Theta oscillations coordinate grid-like representations between ventromedial prefrontal and entorhinal cortex
     authors: <strong>Dong Chen</strong>, Lukas Kunz, Pengcheng Lv, Hui Zhang, Wenjing Zhou, Shuli Liang, Nikolai Axmacher, Liang Wang*
     conference_short: Science Advances
