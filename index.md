@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an assistant professor at the Institute of Psychology, Chinese Academy of Sciences. Before that, I was a post-doc researcher at Institute of Psychology, Chinese Academy of Sciences, where I work with Professor Liang Wang. Before that, I completed my Ph.D. in Cognitive Neuroscience at Beijing Normal University, China. 
+I am an assistant professor at the Institute of Psychology, Chinese Academy of Sciences. Before that, I was a post-doc researcher at the Institute of Psychology, Chinese Academy of Sciences. Before that, I completed my Ph.D. in system science at Beijing Normal University, China. 
 
 ## Research Interests
 
