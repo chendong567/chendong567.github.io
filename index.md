@@ -5,13 +5,11 @@ layout: homepage
 ## About Me
 
 I am an assistant professor at the Institute of Psychology, Chinese Academy of Sciences. Before that, I completed my Ph.D. in system science at Beijing Normal University, China. 
-
 我现在是中国科学院心理研究所的助理研究员。在这之前，我在北京师范大学获得了管理科学与工程学士学位和系统理论博士学位。
 
 ## Research Interests
 
 My research interest is Cognitive Map in awake and sleep. I use intracranial EEG to study its neural basis and how it relates to memory encoding/retrieval/consolidation for optimal action.
-
 我特别感兴趣认知地图的构建和巩固，我使用颅内脑电研究它的神经基础。
 
 - **Encoding and Consolidation of Spatial Memory**
