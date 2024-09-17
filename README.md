@@ -4,7 +4,7 @@
 # Basic Information 
 title: Name
 position: Ph.D. Student
-affiliation: affiliation:
+affiliation: affiliation
 email: example (at) example.edu
 
 # Search Engine Optimization (SEO)
