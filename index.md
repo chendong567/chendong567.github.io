@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an assistant professor at the Institute of Psychology, Chinese Academy of Sciences. Before that, I was a post-doc researcher at Institute of Psychology, Chinese Academy of Sciences, where I work with Professor Liang Wang. Before that, I completed my Ph.D. in Cognitive Neuroscience at Beijing Normal University, China. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interest is Cognitive Map in awake and sleep. I use intracranial EEG to study its neural basis and how it relates to memory encoding/retrieval/consolidation for optimal action.
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Encoding and Consolidation of Spatial Memory**
+- **Cognitive Computational Modeling**
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Contact
+
+**Address**: [16 Lincui Road, Chaoyang District, Beijing, China, 100101](https://www.google.com/maps/place/Institute+of+Psychology+Cas/@40.0046291,116.3732612,17z/data=!4m14!1m7!3m6!1s0x35f054f81da40f67:0xb93dec1d204334a6!2z5Lit5Zu956eR5a2m6Zmi5b-D55CG56CU56m25omA!8m2!3d40.0020034!4d116.3731217!16s%2Fg%2F11fy_qfk5t!3m5!1s0x35f054f93a7e705d:0x8d57d71071cee2e4!8m2!3d40.0052991!4d116.376026!16s%2Fg%2F1wcxb7r_?hl=en&entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D)
+<br />
+**Office Location**: Hexie Building, Institute of Psychology, Chinese Academy of Sciences

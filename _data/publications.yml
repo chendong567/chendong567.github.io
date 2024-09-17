@@ -1,22 +1,25 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Grid codes underlie multiple cognitive maps in the human brain
+    authors: <strong>Dong Chen</strong>, Nikolai Axmacher, Liang Wang
+    conference_short: Progress in Neurobiology
+    conference: Progress in Neurobiology, 2024.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0301008224000054
+    image: ./assets/img/2024_ProgressinNeurobiology_GridCodesUnderlie_Chen.png
+    notes: Research Article
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Multi-scale goal distance representations in human hippocampus during virtual spatial navigation
+    authors: Jiali Liu#, <strong>Dong Chen#</strong>, Xue Xiao, Hui Zhang, Wenjing Zhou, Shuli Liang, Lukas Kunz, Andreas Schulze-Bonhage, Nikolai Axmacher, Liang Wang (#contributed equally)
+    conference_short: Current Biology
+    conference: Current Biology, 2023.
+    pdf: https://www.cell.com/current-biology/fulltext/S0960-9822(23)00481-5
+    image: ./assets/img/2023_CurrentBiology_MultiscaleGoalDistance_Liu.jpg
+    notes: Research Article
+
+  - title: Theta oscillations coordinate grid-like representations between ventromedial prefrontal and entorhinal cortex
+    authors: <strong>Dong Chen</strong>, Lukas Kunz, Pengcheng Lv, Hui Zhang, Wenjing Zhou, Shuli Liang, Nikolai Axmacher, Liang Wang
+    conference_short: Science Advances
+    conference: Science Advances, 2021.
+    pdf: https://www.science.org/doi/full/10.1126/sciadv.abj0200
+    image: ./assets/img/2021_ScienceAdvances_ThetaOscillationsCoordinate_Chen.jpg
+    notes: Research Article
