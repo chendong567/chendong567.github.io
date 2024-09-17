@@ -1,7 +1,7 @@
 # Basic Information 
-title: Dong Chen
-position: Assistant Professor
-affiliation: Institute of Psychology, Chinese Academy of Sciences
+title: Dong Chen 陈栋
+position: Assistant Professor 助理研究员
+affiliation: Institute of Psychology, Chinese Academy of Sciences 中国科学院心理研究所
 email: chend@psych.ac.cn
 
 # Search Engine Optimization (SEO)
@@ -15,7 +15,7 @@ canonical: https://minimal-light-theme.yliu.me/ # need not change
 google_scholar: https://scholar.google.com/citations?hl=en&user=AzL39ZoAAAAJ&view_op=list_works
 research_gate: https://www.researchgate.net/profile/Dong-Chen-68
 #cv_link: files/Curriculum_Vitae.pdf # put CV here `assets/files/Curriculum_Vitae.pdf`
-#github_link: https://github.com/
+github_link: https://github.com/chendong567/
 #linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/
 
