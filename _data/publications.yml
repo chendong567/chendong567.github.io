@@ -6,14 +6,14 @@ main:
     conference: Progress in Neurobiology, 2024.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0301008224000054
     image: ./assets/img/2024_ProgressinNeurobiology_GridCodesUnderlie_Chen.png
-    notes: 网格细胞一直吸引着心理学、神经科学和人工智能等领域研究者的关注。这篇观点文章系统梳理了人类网格表征的实验进展和四种认知计算模型进展，并讨论了网格研究的临床转化和对人工智能的启发。
+    notes: 网格细胞一直吸引着心理学、神经科学和人工智能等领域研究者的关注。在这篇观点文章中，我们梳理了人类网格表征的实验进展和认知计算模型进展，并讨论了网格研究的临床转化和对人工智能的启发。
   - title: Multi-scale goal distance representations in human hippocampus during virtual spatial navigation
     authors: Jiali Liu#, <strong>Dong Chen#</strong>, Xue Xiao, Hui Zhang, Wenjing Zhou, Shuli Liang, Lukas Kunz, Andreas Schulze-Bonhage, Nikolai Axmacher, Liang Wang*
     conference_short: Current Biology
     conference: Current Biology, 2023.
     pdf: https://www.cell.com/current-biology/fulltext/S0960-9822(23)00481-5
     image: ./assets/img/2023_CurrentBiology_MultiscaleGoalDistance_Liu.jpg
-    notes: 本研究发现随着导航迫近目标，海马theta逐渐减低。且这个效应在海马长轴上存在梯度差异。进一步分析发现梯度编码和神经时间常数有关。这些结果支持了将外部信息转化为神经时空动态是脑信息处理的一般性法则。
+    notes: 本研究发现随着导航迫近目标，海马theta活动逐渐减低，且这个效应在海马长轴上存在梯度差异。进一步分析发现梯度编码和神经时间常数有关。这些结果支持了将外部信息转化为神经时空动态是脑信息处理的一般性法则。
   - title: Theta oscillations coordinate grid-like representations between ventromedial prefrontal and entorhinal cortex
     authors: <strong>Dong Chen</strong>, Lukas Kunz, Pengcheng Lv, Hui Zhang, Wenjing Zhou, Shuli Liang, Nikolai Axmacher, Liang Wang*
     conference_short: Science Advances
@@ -27,4 +27,4 @@ main:
     conference: Current Biology, 2018.
     pdf: https://www.sciencedirect.com/science/article/pii/S0960982218311138
     image: ./assets/img/2018_cb.png
-    notes: 本研究首次发现了人类网格细胞的神经振荡特征，发现内嗅的theta振荡受到运动方向的六周期调制。这也是中国大陆发表的首篇人类iEEG认知研究。
+    notes: 本研究首次发现了人类网格细胞的神经振荡特征，发现内嗅的theta振荡受到运动方向的六周期调制。
