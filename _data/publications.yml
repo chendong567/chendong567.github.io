@@ -6,8 +6,7 @@ main:
     conference: Progress in Neurobiology, 2024.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0301008224000054
     image: ./assets/img/2024_ProgressinNeurobiology_GridCodesUnderlie_Chen.png
-    notes: 网格细胞一直吸引着心理学、神经科学和人工智能等领域研究者的关注。在这篇观点文章中，我们梳理了人类网格表征的实验进展和认知计算模型进展，并讨论了网格研究的临床转化和对人工智能的启发。
-  
+    notes: 网格细胞一直吸引着心理学、神经科学和人工智能等领域研究者的关注。在这篇观点文章中，我们梳理了人类网格表征的实验进展和认知计算模型进展，并讨论了网格研究的临床转化和对人工智能的启发。  
   - title: Context‐dependent Grid‐like Representations of Theta Power in Human Entorhinal Cortex
     authors: Pengcheng Lv#,<strong>Dong Chen#</strong>, Hui Zhang, Wenjing Zhou, Mengyang Wang, Philip Grewe, Nikolai Axmacher,Liang Wang*
     conference_short: Neurosci. Bull.
@@ -15,7 +14,6 @@ main:
     pdf: https://link.springer.com/article/10.1007/s12264-024-01271-6
     image: ./assets/img/bullin.jpg
     notes: 我们设计了一个包含多种线索的环境，让被试完成路径整合任务。我们发现theta-网格被近端线索破坏，这可能和被试导航策略的改变有关。
-  
   - title: Multi-scale goal distance representations in human hippocampus during virtual spatial navigation
     authors: Jiali Liu#, <strong>Dong Chen#</strong>, Xue Xiao, Hui Zhang, Wenjing Zhou, Shuli Liang, Lukas Kunz, Andreas Schulze-Bonhage, Nikolai Axmacher, Liang Wang*
     conference_short: Current Biology
@@ -23,7 +21,6 @@ main:
     pdf: https://www.cell.com/current-biology/fulltext/S0960-9822(23)00481-5
     image: ./assets/img/2023_CurrentBiology_MultiscaleGoalDistance_Liu.jpg
     notes: 本研究发现随着导航迫近目标，海马theta活动逐渐减低，且这个效应在海马长轴上存在梯度差异。进一步分析发现梯度编码和神经时间常数有关。这些结果支持了将外部信息转化为神经时空动态是脑信息处理的一般性法则。
- 
   - title: Theta oscillations coordinate grid-like representations between ventromedial prefrontal and entorhinal cortex
     authors: <strong>Dong Chen</strong>, Lukas Kunz, Pengcheng Lv, Hui Zhang, Wenjing Zhou, Shuli Liang, Nikolai Axmacher, Liang Wang*
     conference_short: Science Advances
@@ -31,7 +28,6 @@ main:
     pdf: https://www.science.org/doi/full/10.1126/sciadv.abj0200
     image: ./assets/img/2021_ScienceAdvances_ThetaOscillationsCoordinate_Chen.jpg
     notes: 和其他动物不同，人类的网格细胞还存在于前额叶皮层。本研究首次从跨脑区视角研究了大脑分布式网格细胞的协同机制，发现前额叶-内嗅环路的theta振荡同步性与两个脑区的网格表征强关联。
-
   - title: Hexadirectional modulation of theta power in human entorhinal cortex during spatial navigation
     authors: <strong>Dong Chen#</strong>, Lukas Kunz#, Pengcheng Lv, Hui Zhang, Wenjing Zhou, Shuli Liang, Nikolai Axmacher*, Liang Wang*
     conference_short: Current Biology
