@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an assistant professor at the Institute of Psychology, Chinese Academy of Sciences. Before that, I completed my Ph.D. in system science at Beijing Normal University, China. 
+I am an Associate Researcher at the Institute of Psychology, Chinese Academy of Sciences. Before that, I completed my Ph.D. in system science at Beijing Normal University, China. 
 
-我现在是中国科学院心理研究所的助理研究员。在这之前，我在北京师范大学获得了管理科学与工程学士学位和系统理论博士学位。
+我现在是中国科学院心理研究所的副研究员。在这之前，我在北京师范大学获得了管理科学与工程学士学位和系统理论博士学位。
 
 ## Research Interests
 
