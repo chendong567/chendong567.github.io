@@ -13,7 +13,7 @@ main:
     conference_short: Neurosci. Bull.
     conference: Neuroscience Bulletin, 2024.
     pdf: https://link.springer.com/article/10.1007/s12264-024-01271-6
-    image: ./assets/img/neuroBull.png
+    image: ./assets/img/bullin.jpg
     notes: 我们设计了一个包含多种线索的环境，让被试完成路径整合任务。我们发现theta-网格被近端线索破坏，这可能和被试导航策略的改变有关。
   
   - title: Multi-scale goal distance representations in human hippocampus during virtual spatial navigation
@@ -35,7 +35,7 @@ main:
   - title: Mesoscopic neural representations in spatial navigation
     authors: Lukas Kunz#*, Shachar Maidenbaum#*, <strong>Dong Chen#</strong>,Liang Wang*, Joshua Jacobs*, Nikolai Axmacher*
     conference_short: Trends in Cognitive Sciences
-    conference: Trends in Cognitive Sciences, 2021.
+    conference: Trends in Cognitive Sciences, 2019.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S1364661319301032
     image: ./assets/img/tics.jpg
     notes:局部场电位信号是脑机接口的主要来源。在这篇综述文章中，我们梳理了利用振荡信号解码位置、边界、方向、网格等空间变量的进展；讨论了振荡信号在疾病诊断和开发“记忆相关脑机接口”中的应用和前景。
