@@ -7,13 +7,6 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0301008224000054
     image: ./assets/img/2024_ProgressinNeurobiology_GridCodesUnderlie_Chen.png
     notes: 网格细胞一直吸引着心理学、神经科学和人工智能等领域研究者的关注。我们梳理了人类网格表征的实验和认知模型进展，并讨论了网格研究的临床转化和对人工智能的启发。  
-  - title: Context‐dependent Grid‐like Representations of Theta Power in Human Entorhinal Cortex
-    authors: Pengcheng Lv#,<strong>Dong Chen#</strong>, Hui Zhang, Wenjing Zhou, Mengyang Wang, Philip Grewe, Nikolai Axmacher,Liang Wang*
-    conference_short: Neurosci. Bull.
-    conference: Neuroscience Bulletin, 2024.
-    pdf: https://link.springer.com/article/10.1007/s12264-024-01271-6
-    image: ./assets/img/bullin.jpg
-    notes: 我们设计了一个包含多种线索的环境和路径整合任务，发现theta-网格被近端线索破坏，这可能和被试导航策略的改变有关。
   - title: Multi-scale goal distance representations in human hippocampus during virtual spatial navigation
     authors: Jiali Liu#, <strong>Dong Chen#</strong>, Xue Xiao, Hui Zhang, Wenjing Zhou, Shuli Liang, Lukas Kunz, Andreas Schulze-Bonhage, Nikolai Axmacher, Liang Wang*
     conference_short: Current Biology
@@ -35,6 +28,12 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0960982218311138
     image: ./assets/img/2018_cb.png
     notes: 本研究首次发现了人类网格细胞的神经振荡特征，发现内嗅的theta振荡受到运动方向的六周期调制。
+  - title: Context‐dependent Grid‐like Representations of Theta Power in Human Entorhinal Cortex
+    authors: Pengcheng Lv#,<strong>Dong Chen#</strong>, Hui Zhang, Wenjing Zhou, Mengyang Wang, Philip Grewe, Nikolai Axmacher,Liang Wang*
+    conference_short: Neurosci. Bull.
+    conference: Neuroscience Bulletin, 2024.
+    pdf: https://link.springer.com/article/10.1007/s12264-024-01271-6
+    notes: 我们设计了一个包含多种线索的环境和路径整合任务，发现theta-网格被近端线索破坏，这可能和被试导航策略的改变有关。
   - title: Theta oscillations between the ventromedial prefrontal cortex and amygdala support dynamic representations of threat and safety
     authors: Pinpin Lu#, <strong>Dong Chen#</strong>, ..., Liang Wang*
     conference_short: NeuroImage
