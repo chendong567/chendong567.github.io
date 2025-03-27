@@ -40,13 +40,13 @@ main:
     conference_short: NeuroImage
     conference: NeuroImage, 2025.
     pdf: https://www.sciencedirect.com/science/article/pii/S1053811925001661   
-    notes: 在这篇文章中，我们发现腹侧额叶和杏仁核的theta振荡如何动态表征恐惧记忆。
+    notes: 我们发现腹侧额叶和杏仁核的theta振荡动态表征恐惧记忆。
   - title: Electrophysiological signatures underlying variability in human memory consolidation
     authors: Wei Duan#, Z Xu#, <strong>Dong Chen</strong>, ..., Liang Wang*
     conference_short:  Nature Communications
     conference: Nature Communications, 2025.
     pdf: https://www.nature.com/articles/s41467-025-57766-x   
-    notes: 这篇合作文章发现在睡眠中播放声音可以有效多次激活相关的记忆表征，即记忆的回声效应。为记忆编辑提供了潜在理论基础。
+    notes: 合作研究发现在睡眠中播放声音可以有效多次激活相关的记忆表征，即记忆的回声效应。为记忆编辑提供了潜在理论基础。
  
 
  
