@@ -35,3 +35,11 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0960982218311138
     image: ./assets/img/2018_cb.png
     notes: 本研究首次发现了人类网格细胞的神经振荡特征，发现内嗅的theta振荡受到运动方向的六周期调制。
+
+  - title: Theta oscillations between the ventromedial prefrontal cortex and amygdala support dynamic representations of threat and safety
+    authors: Pinpin Lu#, <strong>Dong Chen#</strong>, ..., Liang Wang*
+    conference_short: Progress in Neurobiology
+    conference: NeuroImage, 2025.
+    pdf: https://www.sciencedirect.com/science/article/pii/S1053811925001661   
+    notes: 在这篇文章中，我们发现腹侧额叶和杏仁核的theta振荡如何表征恐惧记忆 
+
