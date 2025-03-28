@@ -5,14 +5,14 @@ main:
     conference: Progress in Neurobiology, 2024.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0301008224000054
     image: ./assets/img/2024_ProgressinNeurobiology_GridCodesUnderlie_Chen.png
-    notes: 网格细胞一直吸引着心理学、神经科学和人工智能等领域研究者的关注。我们梳理了人类网格表征的实验和认知模型进展，并讨论了网格研究的临床转化和对人工智能的启发。  
+    notes: 网格细胞一直吸引着心理学、神经科学和人工智能等领域研究者的关注。我们梳理了人类网格表征的实验和认知模型进展、临床转化和对人工智能的启发。  
   - title: Multi-scale goal distance representations in human hippocampus during virtual spatial navigation
     authors: Jiali Liu#, <strong>Dong Chen#</strong>, ... ,  Nikolai Axmacher, Liang Wang*
     conference_short: Current Biology
     conference: Current Biology, 2023.
     pdf: https://www.cell.com/current-biology/fulltext/S0960-9822(23)00481-5
     image: ./assets/img/2023_CurrentBiology_MultiscaleGoalDistance_Liu.jpg
-    notes: 随着导航迫近目标，海马theta活动逐渐减低，且这个效应在海马长轴上存在梯度差异。进一步分析发现梯度编码和神经时间常数有关。结果支持了将外部信息转化为神经时空动态是脑信息处理的一般性法则。
+    notes: 随着导航迫近目标，海马theta活动逐渐减低。该效应在海马长轴上存在梯度差异，且与神经时间常数有关。这表明将外部信息转化为神经时空动态是脑信息处理的一般性法则。
   - title: Theta oscillations coordinate grid-like representations between ventromedial prefrontal and entorhinal cortex
     authors: <strong>Dong Chen</strong>, Lukas Kunz, Pengcheng Lv, ... , Nikolai Axmacher, Liang Wang*
     conference_short: Science Advances
