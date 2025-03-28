@@ -19,7 +19,7 @@ main:
     conference: Science Advances, 2021.
     pdf: https://www.science.org/doi/full/10.1126/sciadv.abj0200
     image: ./assets/img/2021_ScienceAdvances_ThetaOscillationsCoordinate_Chen.jpg
-    notes: 和其他动物不同，人类的网格细胞还存在于前额叶皮层。本研究首次从跨脑区视角研究了大脑分布式网格细胞的协同机制，发现前额叶-内嗅环路的theta振荡同步性与两个脑区的网格表征强关联。
+    notes: 和鼠不同，人类的网格细胞还存在于前额叶皮层。本研究首次从跨脑区视角研究了大脑分布式网格细胞的协同机制，发现额叶-内嗅环路的theta振荡同步性与两个脑区的网格表征强关联。
   - title: Hexadirectional modulation of theta power in human entorhinal cortex during spatial navigation
     authors: <strong>Dong Chen#</strong>, Lukas Kunz#, ..., Nikolai Axmacher*, Liang Wang*
     conference_short: Current Biology
