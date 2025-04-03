@@ -12,14 +12,14 @@ main:
     conference: Current Biology, 2023.
     pdf: https://www.cell.com/current-biology/fulltext/S0960-9822(23)00481-5
     image: ./assets/img/2023_CurrentBiology_MultiscaleGoalDistance_Liu.jpg
-    notes: 随着导航迫近目标，海马theta活动逐渐减低。该效应在海马长轴上存在梯度差异，且与神经时间常数有关。这表明将外部信息转化为神经时空动态是脑信息处理的一般性法则。
+    notes: 随着迫近目标，海马theta活动逐渐减低。该效应在海马长轴上存在梯度差异并与神经时间常数有关。这表明将外部信息转化为时间动态是脑信息处理的一般法则。
   - title: Theta oscillations coordinate grid-like representations between ventromedial prefrontal and entorhinal cortex
     authors: <strong>Dong Chen</strong>, Lukas Kunz, Pengcheng Lv, ... , Nikolai Axmacher, Liang Wang*
     conference_short: Science Advances
     conference: Science Advances, 2021.
     pdf: https://www.science.org/doi/full/10.1126/sciadv.abj0200
     image: ./assets/img/2021_ScienceAdvances_ThetaOscillationsCoordinate_Chen.jpg
-    notes: 和鼠不同，人类的网格细胞还存在于前额叶皮层。本研究首次从跨脑区视角研究了大脑分布式网格细胞的协同机制，发现额叶-内嗅环路的theta振荡同步性与两个脑区的网格表征强关联。
+    notes: 和鼠不同，人类网格细胞还存在于前额叶皮层。本研究首次从跨脑区视角研究了大脑分布式网格的协同机制，发现额叶-内嗅环路的theta振荡同步性与网格表征强关联。
   - title: Hexadirectional modulation of theta power in human entorhinal cortex during spatial navigation
     authors: <strong>Dong Chen#</strong>, Lukas Kunz#, ..., Nikolai Axmacher*, Liang Wang*
     conference_short: Current Biology
