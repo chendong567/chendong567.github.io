@@ -1,4 +1,11 @@
 main:
+  - title: Coordinated hippocampal–entorhinal representations support human context-dependent spatial navigation
+    authors: Pengcheng Lv#,<strong>Dong Chen#</strong>, ..., Liang Wang*
+    conference_short: PLOS Biology
+    conference: PLOS Biology, 2025.
+    pdf: https://doi.org/10.1371/journal.pbio.3003398
+    image: ./assets/img/2025_twomaze.png
+    notes: 海马和皮层协同组合计算表征多重地图支持灵活的导航行为  
   - title: Grid codes underlie multiple cognitive maps in the human brain
     authors: <strong>Dong Chen</strong>, Nikolai Axmacher, Liang Wang*
     conference_short: Progress in Neurobiology
